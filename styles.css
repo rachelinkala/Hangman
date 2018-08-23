@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: alcubierre;
+  font-size: 20px;
+}
+
+.ttt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: alcubierre;
+  font-size: 100px;
+}
+
+.instructions {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  flex-wrap: wrap;
+  font-family: alcubierre;
+  font-size: 20px;
+  width: 400px;
+  border: 2px solid black;
+}
+
+.image {
+  width: 25px;
+}
